@@ -12,4 +12,4 @@ This action will start the project
 
 ### `output.txt`
 
-Please replace the content contain in output.txt file
+Please replace the content contained in output.txt file
